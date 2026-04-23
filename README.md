@@ -2,6 +2,13 @@
 
 This project is an AI-powered loan risk prediction system built using Machine Learning.
 
+## 📸 App Preview
+
+<p align="center">
+  <img src="app_screenshot.png" width="700">
+</p>
+
+
 ## 🚀 Features
 - Predicts loan repayment risk (High Risk / Low Risk)
 - Uses Random Forest Classifier
