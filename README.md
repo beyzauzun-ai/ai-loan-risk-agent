@@ -23,3 +23,21 @@ This project is an AI-powered loan risk prediction system built using Machine Le
 pip install -r requirements.txt
 python app.py
 ```
+📌 Example Input
+
+* Account Balance: 1
+* Credit Duration: 18
+* Previous Payment Status: 4
+
+📊 Output
+
+* Risk Level: High Risk
+* Explanation: Customer may default
+
+⸻
+
+💡 Future Improvements
+
+* Add more features for better accuracy
+* Improve explanation system (LLM integration)
+* Build full AI agent workflow
