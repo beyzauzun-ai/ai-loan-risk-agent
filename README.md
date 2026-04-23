@@ -41,3 +41,9 @@ python app.py
 * Add more features for better accuracy
 * Improve explanation system (LLM integration)
 * Build full AI agent workflow
+
+⸻
+
+👩‍💻 Author
+
+Beyza Uzun
