@@ -8,7 +8,7 @@ The project includes data analysis, model training, and deployment as an interac
 
 👉 Hugging Face App: https://huggingface.co/spaces/beyzauzun/ai-loan-risk-agent
 
-## 📎 Kaggle Notebook
+## 📎Kaggle Notebook
 
 👉 https://www.kaggle.com/code/beyzauzun97/ai-loan-risk-prediction-final-version
 
