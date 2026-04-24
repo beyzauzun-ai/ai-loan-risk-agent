@@ -19,16 +19,6 @@ The project includes data analysis, model training, and deployment as an interac
   <img src="app_screenshot.png" width="700">
 </p>
 
-
-## 🚀 Features
-- Predicts loan repayment risk (High Risk / Low Risk)
-- Uses Random Forest Classifier
-- Provides simple human-readable explanations
-- Interactive UI with Gradio
-- Deployed on Hugging Face Spaces
-
-⸻
-
 ## 💡 Project Overview
 
 This project predicts whether a customer is **creditworthy or high risk** using financial data.
@@ -39,6 +29,24 @@ It includes:
 - Model training (Random Forest)
 - Model deployment with Gradio
 - Real-time prediction interface
+
+⸻
+
+## 🎯 Problem Statement
+
+Financial institutions need to assess whether a customer is likely to repay a loan.
+
+This project solves this problem using machine learning by classifying customers as:
+- Creditworthy (Low Risk)
+- Not Creditworthy (High Risk)
+  
+
+## 🚀 Features
+- Predicts loan repayment risk (High Risk / Low Risk)
+- Uses Random Forest Classifier
+- Provides simple human-readable explanations
+- Interactive UI with Gradio
+- Deployed on Hugging Face Spaces
 
 ⸻
   
