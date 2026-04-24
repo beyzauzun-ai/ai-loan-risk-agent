@@ -62,7 +62,14 @@ python app.py
 * Risk Level: High Risk
 * Explanation: Customer may default
 
-⸻
+
+## 🚀 Project Highlights
+
+- End-to-end ML pipeline (data → model → deployment)
+- Deployed as an interactive web app (Gradio + HuggingFace)
+- Real-time loan risk prediction
+- AI-style explanation output
+
 
 💡 Future Improvements
 
