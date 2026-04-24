@@ -4,11 +4,11 @@ An end-to-end machine learning project that predicts loan repayment risk and pro
 
 The project includes data analysis, model training, and deployment as an interactive web application.
 
-## 🚀 Live Demo
+### 🚀 Live Demo
 
 👉 Hugging Face App: https://huggingface.co/spaces/beyzauzun/ai-loan-risk-agent
 
-## 📎Kaggle Notebook
+### 📎Kaggle Notebook
 
 👉 https://www.kaggle.com/code/beyzauzun97/ai-loan-risk-prediction-final-version
 
