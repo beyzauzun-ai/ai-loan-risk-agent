@@ -17,7 +17,6 @@ An end-to-end machine learning project that predicts loan repayment risk and pro
   <img src="app_screenshot.png" width="700">
 </p>
 
-⸻
 
 ## 🚀 Features
 - Predicts loan repayment risk (High Risk / Low Risk)
@@ -39,7 +38,7 @@ It includes:
 - Model deployment with Gradio
 - Real-time prediction interface
 
-  ⸻
+⸻
   
 ## 📊 Model Performance
 
@@ -62,7 +61,7 @@ Confusion Matrix:
 - Hugging Face Spaces
 - Kaggle
 
-  ⸻
+⸻
   
 ## ⚙️ How to Run
 
