@@ -12,6 +12,19 @@ This project is an AI-powered loan risk prediction system built using Machine Le
 
 👉 Live App: https://huggingface.co/spaces/beyzauzun/ai-loan-risk-agent
 
+
+## 📎 Kaggle Notebook (Full Analysis)
+
+This project was developed and trained in Kaggle.  
+You can review the full notebook including:
+
+- Data analysis
+- Feature engineering
+- Model training
+- Evaluation
+
+👉 https://www.kaggle.com/code/beyzauzun97/ai-loan-risk-prediction-final-version
+
 ⸻
 
 ## 🚀 Features
