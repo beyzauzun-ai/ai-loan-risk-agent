@@ -1,29 +1,21 @@
 # 🤖 AI Loan Risk Agent
 
-This project is an AI-powered loan risk prediction system built using Machine Learning.
+An end-to-end machine learning project that predicts loan repayment risk and provides AI-style explanations.
+
+## 🚀 Live Demo
+
+👉 Hugging Face App: https://huggingface.co/spaces/beyzauzun/ai-loan-risk-agent
+
+## 📎 Kaggle Notebook
+
+👉 https://www.kaggle.com/code/beyzauzun97/ai-loan-risk-prediction-final-version
+
 
 ## 📸 App Preview
 
 <p align="center">
   <img src="app_screenshot.png" width="700">
 </p>
-
-## 🖥️ Demo
-
-👉 Live App: https://huggingface.co/spaces/beyzauzun/ai-loan-risk-agent
-
-
-## 📎 Kaggle Notebook (Full Analysis)
-
-This project was developed and trained in Kaggle.  
-You can review the full notebook including:
-
-- Data analysis
-- Feature engineering
-- Model training
-- Evaluation
-
-👉 https://www.kaggle.com/code/beyzauzun97/ai-loan-risk-prediction-final-version
 
 ⸻
 
@@ -36,13 +28,42 @@ You can review the full notebook including:
 
 ⸻
 
-## 🧠 Model
-- Algorithm: Random Forest
-- Dataset: German Credit Dataset
-- Libraries: scikit-learn, pandas, joblib
+## 💡 Project Overview
 
+This project predicts whether a customer is **creditworthy or high risk** using financial data.
+
+It includes:
+- Data preprocessing
+- Feature selection
+- Model training (Random Forest)
+- Model deployment with Gradio
+- Real-time prediction interface
+
+  ⸻
+  
+## 📊 Model Performance
+
+- Accuracy: 77%
+- Model: Random Forest Classifier
+- Task: Binary Classification (Credit Risk)
+
+Confusion Matrix:
+[[31 31]
+ [15 123]]
+ 
 ⸻
 
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- Scikit-learn
+- Gradio
+- Hugging Face Spaces
+- Kaggle
+
+  ⸻
+  
 ## ⚙️ How to Run
 
 ```bash
@@ -67,10 +88,10 @@ python app.py
 ## 🚀 Project Highlights
 
 - End-to-end ML pipeline (data → model → deployment)
-- Deployed as an interactive web app (Gradio + HuggingFace)
-- Real-time loan risk prediction
-- AI-style explanation output
-
+- Interactive web app for real-time predictions
+- AI-style explanation system
+- Deployed on Hugging Face Spaces
+  
 ⸻
 
 💡 Future Improvements
