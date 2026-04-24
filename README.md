@@ -62,6 +62,7 @@ python app.py
 * Risk Level: High Risk
 * Explanation: Customer may default
 
+⸻
 
 ## 🚀 Project Highlights
 
@@ -70,6 +71,7 @@ python app.py
 - Real-time loan risk prediction
 - AI-style explanation output
 
+⸻
 
 💡 Future Improvements
 
