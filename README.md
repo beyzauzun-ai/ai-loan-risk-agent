@@ -12,8 +12,7 @@ The project includes data analysis, model training, and deployment as an interac
 
 👉 https://www.kaggle.com/code/beyzauzun97/ai-loan-risk-prediction-final-version
 
-
-## 📸 App Preview
+### 📸 App Preview
 
 <p align="center">
   <img src="app_screenshot.png" width="700">
